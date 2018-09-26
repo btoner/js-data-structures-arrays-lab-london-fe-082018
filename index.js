@@ -1,2 +1,2 @@
 // Write your solution here!
-const myArray = ['Milo', 'Otis', 'Garfield'];
+// const myArray = ['Milo', 'Otis', 'Garfield'];

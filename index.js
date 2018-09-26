@@ -3,7 +3,7 @@ const drivers = ['Milo', 'Otis', 'Garfield'];
 
 drivers.push('ben');
 
-//Function; drivers(){
+//Function drivers(){
 //  drivers.push('ben');
 // };
   
